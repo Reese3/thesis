@@ -11,7 +11,10 @@ recapitulate important theory papers
 lots of plots
 
 ##Bibliography
+[1] important
+[2] paper 2
 
 ##Appendix
+I want to thank my family
 
 
