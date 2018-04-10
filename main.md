@@ -1,21 +1,21 @@
-#My fancy thesis
+# My fancy thesis
 
-##Introduction
+## Introduction
 I was motivated because...
 
-##Important theroy
+## Important theroy
 recapitulate important theory papers
 
-##important results
+## important results
 
 lots of plots
 structures
 
-##Bibliography
+## Bibliography
 [1] important
 [2] paper 2
 
-##Appendix
+## Appendix
 I want to thank my family
-
+Github.com is great
 
